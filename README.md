@@ -13,19 +13,19 @@ Streamlit, and AI tools.
 About Me
 Pursuing Bachelor of Computer Applications (BCA)
 
-🤖 Specializing in AI & Data Science
+Specializing in AI & Data Science
 
-📊 Interested in Data Analytics & Business Intelligence
+Interested in Data Analytics & Business Intelligence
 
-🐍 Working with Python for data analysis and visualization
+Working with Python for data analysis and visualization
 
-📈 Building interactive dashboards with Power BI & Streamlit
+Building interactive dashboards with Power BI & Streamlit
 
-⚙️ Exploring automation and AI tools
+Exploring automation and AI tools
 
-🌱 Continuously learning and developing practical projects
+Continuously learning and developing practical projects
 
-🛠️ Skills
+Skills
 
 Programming & Data
 
@@ -67,9 +67,9 @@ Problem Solving
 
 Analytical Thinking
 
-📊 Projects
+Projects
 
-🛍️ ShopSphere --- Sales Dashboard
+ShopSphere --- Sales Dashboard
 
 Power BI
 
@@ -79,7 +79,7 @@ generate business insights.
 Focus: Sales analytics • KPIs • Dashboard design • Business
 intelligence
 
-📦 NovaMart --- Sales Dashboard
+NovaMart --- Sales Dashboard
 
 Python • Streamlit
 
@@ -88,7 +88,7 @@ dashboard with filters and profitability-focused insights.
 
 Focus: Python • Streamlit • Sales analysis • Profitability analysis
 
-🏬 Superstore --- Data Analysis
+Superstore --- Data Analysis
 
 Python • Streamlit
 
@@ -98,7 +98,7 @@ presented insights through an interactive dashboard.
 Focus: Data cleaning • Exploratory analysis • Sales trends • Profit
 analysis
 
-🎬 CineStream --- Content Analytics
+CineStream --- Content Analytics
 
 Python • Streamlit
 
@@ -107,7 +107,7 @@ content-related data through an interactive analytics application.
 
 Focus: Python • Pandas • Streamlit • Content analytics
 
-📱 MediaMetrics --- Social Media Analysis
+MediaMetrics --- Social Media Analysis
 
 Python • Pandas
 
@@ -116,7 +116,7 @@ user engagement behavior.
 
 Focus: Data analysis • Pandas • Pattern identification
 
-🏪 RetailPulse --- Sales Analysis
+RetailPulse --- Sales Analysis
 
 Excel
 
@@ -125,14 +125,14 @@ Excel.
 
 Focus: Excel • Data auditing • Sales analysis • Performance tracking
 
-💰 FinanceFlow --- Data Analysis
+FinanceFlow --- Data Analysis
 
 Analyzed financial data to identify patterns and generate useful
 business insights.
 
 Focus: Financial data • Analysis • Business insights
 
-🏏 IPL Data Analysis
+IPL Data Analysis
 
 Python • Pandas
 
@@ -141,7 +141,7 @@ match-related insights.
 
 Focus: Python • Pandas • Sports analytics • Data visualization
 
-🏨 Hotel Revenue Analytics
+Hotel Revenue Analytics
 
 Power BI
 
@@ -150,7 +150,7 @@ business trends and insights.
 
 Focus: Power BI • Revenue analysis • Performance analytics
 
-✈️ TripNova --- Smart Travel Agency
+TripNova --- Smart Travel Agency
 
 AI • Website • Automation
 
@@ -160,7 +160,7 @@ assets.
 
 Focus: AI • Web development • Automation • Customer workflows
 
-🎯 Current Focus
+Current Focus
 
 I'm currently strengthening my skills in:
 
@@ -178,7 +178,7 @@ AI Tools & Automation
 
 Interactive Dashboard Development
 
-🎓 Education
+Education
 
 Bachelor of Computer Applications (BCA)
 Hillsinai Center of Excellence --- Calicut
@@ -187,10 +187,10 @@ Specialization: AI & Data Science
 
 🔗 Connect With Me
 
-💼
+
 LinkedIn
 
-📧 Email
+Email
 
 💡 "Learning, building, and turning data into insights."
 ⭐ Feel free to explore my repositories and projects!
