@@ -10,20 +10,13 @@ I enjoy turning data into meaningful insights and building interactive
 dashboards and practical projects using Python, Power BI, Excel,
 Streamlit, and AI tools.
 
-🚀 About Me
-
-🎓 Pursuing Bachelor of Computer Applications (BCA)
-
+About Me
+Pursuing Bachelor of Computer Applications (BCA)
 🤖 Specializing in AI & Data Science
-
 📊 Interested in Data Analytics & Business Intelligence
-
 🐍 Working with Python for data analysis and visualization
-
 📈 Building interactive dashboards with Power BI & Streamlit
-
 ⚙️ Exploring automation and AI tools
-
 🌱 Continuously learning and developing practical projects
 
 🛠️ Skills
